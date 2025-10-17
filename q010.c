@@ -8,4 +8,5 @@ int main(){
     minutes = totalseconds % 3600 / 60;
     second = totalseconds % 60;
     printf("hours:minutes:seconds form is %d:%d:%d",hour,minutes,second);
+
 }
